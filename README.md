@@ -20,7 +20,7 @@ The Driver Drowsiness Detection System on the NVIDIA Jetson Nano aims to provide
 
 ## Key Objectives:
 - Build a real-time drowsiness detection system on Nvidia Jetson Nano platform.
-- Hith detection accuracy and reliability.
+- High detection accuracy and reliability.
 - Efficient use of edge computing resources.
 
 ## Technology Stack:
