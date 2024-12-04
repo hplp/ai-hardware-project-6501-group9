@@ -28,7 +28,7 @@ The Driver Drowsiness Detection System on the NVIDIA Jetson Nano aims to provide
 
 Hardware platoform: Nvidia Jetson Nano.
 
-Software tools: JetPack SDK (CUDA, cuDNN, TensorRT), OpenCV, dlib, Pytorch.
+Software tools: JetPack SDK (CUDA, cuDNN, TensorRT), OpenCV, dlib, VS Code.
 
 Language: Python, Shell.
 
