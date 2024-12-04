@@ -43,7 +43,7 @@ Week 1 (2024.11.04-2024.11.11): Proposal and presentation, review, and modify th
 
 Week 2 (2024.11.11-2024.11.18): Model Optimization and Deployment on Jetson Nano
 
-Week 3 (2024.11.18-2024.11.25): System Integration and Alert Mechanism
+Week 3 (2024.11.18-2024.11.25): System Integration
 
 Week 4 (2024.11.25-2024.12.02):  Testing, Evaluation, and Final Adjustments
 
