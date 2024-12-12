@@ -68,7 +68,7 @@ The trained models are deployed for real-time detection using a webcam. The step
 ### Environment Installation
 - Use the official Nvidia JetPack to install required drivers, livraries, and tools.
 - Install Python, PyTorch, and OpenCV compatible with Jetson Nano's system.
--  
+
 ### IDE
 Recommended: VSCode. Install it from the official repositroy to ensure compatibility.
 
