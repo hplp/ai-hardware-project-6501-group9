@@ -56,12 +56,12 @@ The training pipeline includes:
 
 ### Real-time Drowsiness Detection
 The trained models are deployed for real-time detection using a webcam. The steps are: 
-1. Face and Eye Detection: 
-  - Uses OpenCV's Haar cascades to detect faces and eyes. 
-2. Eye Classification: 
-  - Extracts each detected eye and predicts whether it is open or closed using the trained model. 
-3. Visualization: 
-  - Draws rectangles around detected eyes and labels them as "Open" or "Closed" with color-coded annotations.
+#### Face and Eye Detection: 
+Uses OpenCV's Haar cascades to detect faces and eyes. 
+#### Eye Classification: 
+Extracts each detected eye and predicts whether it is open or closed using the trained model. 
+#### Visualization: 
+Draws rectangles around detected eyes and labels them as "Open" or "Closed" with color-coded annotations.
 
 ## Platform Setup
 
